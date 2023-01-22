@@ -21,4 +21,5 @@ During this project I have leanred many things like:
 - To show current Date
 
 # Website link
-Link: https://farhaanmalik.github.io/weather-app/
+https://github.com/yashwant0/Weather-App/edit/main/README.md
+
